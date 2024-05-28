@@ -6,16 +6,16 @@
   **(Developed by me)**
 
 
-#### Phrase generator 
+### Phrase generator 
 
 This webpage generates a random phrase from a character (Movie/Series)
 
 
-#### How it looks
+### How it looks
 
 ![alt text](image.png)
 
-#### Script used in PostgreSQL
+### Script used in PostgreSQL
 
 ```python
 insert into frases(id, frase, personaje, titulo, poster) values (1, 'Amigos no mienten', 'Eleven', 'Stranger things', 'https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg');
