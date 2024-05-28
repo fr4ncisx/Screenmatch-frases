@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProyectoPruebaApplication<proyecto-prueba>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.alura.proyecto_prueba.ProyectoPruebaApplication",
+            "projectName": "proyecto-prueba",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
